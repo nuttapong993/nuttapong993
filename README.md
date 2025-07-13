@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nuttapong</h1>
-<h3 align="center"> I am interested in working in a major field, seeking opportunities where I cancontribute and develop my knowledge. By learning andadapting to new challenges.</h3>
+<h3 align="center">I am interested in working in a major field, seeking opportunities where I cancontribute and develop my knowledge. By learning andadapting to new challenges.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
